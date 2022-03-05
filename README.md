@@ -11,6 +11,11 @@ In `MyList` implement a method `#each` that yields successive members of `@list`
 
 ...you can see more of the requirements [here](https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/create_your_own_enumerable.md)
 
+## Clone project
+git clone https://github.com/oluyaratosin123/My-Enumerable.git
+cd `My-Enumerable`
+ruby `my_list.rb`
+
 ## Built with
 Programming language: `Ruby`
 Frameworks: `NaN`
