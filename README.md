@@ -14,8 +14,8 @@ In `MyList` implement a method `#each` that yields successive members of `@list`
 ## Clone project
 ```
 git clone https://github.com/oluyaratosin123/My-Enumerable.git
-cd `My-Enumerable`
-ruby `my_list.rb`
+cd My-Enumerable
+ruby my_list.rb
 ```
 
 ## Built with
