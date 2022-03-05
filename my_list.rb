@@ -16,7 +16,7 @@ class MyList
       counter += 1
     end
     @list
-end
+  end
 end
 
 list = MyList.new(1, 2, 3, 4)
